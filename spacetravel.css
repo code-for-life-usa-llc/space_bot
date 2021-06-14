@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+text-shadow: 2px 2px 7px white;
+color: white;
+font-style: italic;
+text-decoration: underline;
+letter-spacing: 4px;
+text-transform: uppercase;
+text-decoration: underline;
+}
+body{
+    background-image: url(https://images.wallpaperscraft.com/image/astronaut_art_space_129529_2560x1600.jpg);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+     opacity: none;     
+    border:5px solid gray ;
+    }
+     p {
+         text-align: center;
+     text-shadow: 2px 2px 7px white;
+     color: white;
+        font-size: large;
+    text-indent:10px ;
+    font-style: italic;
+} 
+button {
+    color:black;
+pointer-events: auto;
+border-radius: 5px;
+padding: 2px;
+text-shadow: 1px 1px 10px whitesmoke;
+background-color: gray;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-image: none;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  text-shadow: 2px 2px 7px white;
+}
+  li a:hover {
+    background-color: gray;
+  }
+  h3 {
+      text-align: center;
+ color: white;
+font-style: italic;
+
+}

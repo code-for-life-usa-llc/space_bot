@@ -1,0 +1,72 @@
+h1 {
+    color: gold;
+text-align: center;
+text-shadow: 2px 2px 7px gold;
+font-style:italic ;
+letter-spacing: 10px;
+text-decoration: underline;
+}
+h2 {
+    text-align: center;
+text-shadow: 2px 2px 7px gold;
+color: gold;
+font-style: italic;
+letter-spacing: 5px;
+}
+button {
+    color: gold;
+font-style: italic;
+background-color: goldenrod;
+margin: 0;
+  position: relative;
+  top: 1%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+body {
+    background-image: url(https://www.wallpapers4u.org/wp-content/uploads/art_space_nebula_star_energy_81499_1920x1080.jpg);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:none;
+  }
+  li {
+    float: left;
+  }
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  text-shadow: 2px 2px 7px white;
+}
+  li a:hover {
+    background-color: gray;
+  }
+  .answers {
+position: relative;
+
+  }
+  .answer {
+position: relative;
+  top: 5%;
+left: 0;
+margin: 0;
+left: none;
+height: 100px;
+width: 100%;
+pointer-events: none;
+}
+img {
+  display: block;
+margin-left: auto;
+margin-right: auto;
+ opacity: none;
+border: 5px solid gray;
+}
+
